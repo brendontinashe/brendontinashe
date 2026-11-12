@@ -17,10 +17,6 @@ I'm a software engineer who builds full-stack products end to end, from APIs and
 
 I'm particularly interested in technology for **African markets**, including logistics, student housing and education.
 
-- 🎓 Final-year student at the **Harare Institute of Technology**
-- 🔭 Currently building **ModelMint**, my final-year project on edge-deployable LLMs
-- 🤝 Contributing to **[CogniAdapt](https://github.com/CogniAdapt/cogniadapt-backend)** (FastAPI backend)
-
 ### Featured projects
 
 | Project | What it is | Stack |
