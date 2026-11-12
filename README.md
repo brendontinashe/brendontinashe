@@ -1,47 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6f3f,100:39d353&height=180&section=header&text=Brendon%20T%20Buwerimwe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Machine%20Learning&descAlignY=58&descSize=16" width="100%"/>
+<h1 align="center">Brendon T Buwerimwe</h1>
 
 <p align="center">
-  <a href="https://brendonbuwerimwe.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+products;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Python+%E2%80%A2+Flutter;Exploring+ML+model+optimisation+%26+quantisation" alt="Typing SVG" />
-  </a>
+  <b>Software Engineer</b> · Full-Stack Web & Mobile · Machine Learning
 </p>
 
 <p align="center">
-  <a href="https://brendonbuwerimwe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/brendontinashe"><img src="https://komarev.com/ghpvc/?username=brendontinashe&style=for-the-badge&color=39d353&label=Profile+views"/></a>
+  <a href="https://brendonbuwerimwe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-brendonbuwerimwe.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open_to-opportunities-2ea043?style=flat-square"/>
 </p>
 
-### About me
+---
 
-- I build **full-stack web and mobile products**, from the API and database to the UI.
-- I work mostly in **TypeScript / Next.js**, **Python** and **Flutter / Dart**.
-- I'm currently working on **ML model optimisation (quantisation)** and AI-powered platforms.
-- I'm especially interested in software for **African markets**: logistics, student housing and education.
+### About
+
+I'm a software engineer who builds full-stack products end to end, from APIs and data models to web and mobile interfaces. I work mostly in **TypeScript / Next.js**, **Python** and **Flutter**. My current focus is **ML model optimisation (quantisation)** and AI-driven platforms.
+
+I'm particularly interested in technology for **African markets**, including logistics, student housing and education.
 
 ### Tech stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,react,nextjs,nodejs,flutter,tailwind,postgres,mongodb,firebase,supabase,docker,git,vercel,pytorch,threejs&perline=9" />
-</p>
+| Area | Tools |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · Dart |
+| **Frontend** | React · Next.js · Tailwind CSS · Three.js |
+| **Mobile** | Flutter |
+| **Backend & data** | Node.js · PostgreSQL · MongoDB · Firebase · Supabase |
+| **ML** | PyTorch · model quantisation |
+| **Tooling** | Git · Docker · Vercel · GitHub Actions |
 
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brendontinashe&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=brendontinashe&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
-</p>
-
-### Contribution city
+### Contribution activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/brendontinashe/brendontinashe/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brendontinashe/brendontinashe/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/brendontinashe/brendontinashe/output/github-snake.svg" alt="snake eating contributions" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brendontinashe&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2ea043&fire=2ea043&currStreakLabel=2ea043&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9" alt="GitHub streak" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1f6f3f,100:0d1117&height=100&section=footer" width="100%"/>
