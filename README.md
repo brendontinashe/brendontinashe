@@ -66,7 +66,7 @@ $ █
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/FF6B6B/brendontinashe" alt="contributions" width="100%" />
+<img src="https://raw.githubusercontent.com/brendontinashe/brendontinashe/main/profile-3d-contrib/profile-city.svg" alt="3d contribution city" width="100%" />
 
 <br/>
 
